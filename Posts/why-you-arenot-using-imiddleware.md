@@ -1,11 +1,12 @@
 ---
+Id: 60
 Posted Date: 9/10/2018
 Tags:  Middlewares 
 Slug: why-you-arenot-using-imiddleware
 ---
 # Why you aren't using IMiddleware?
 
- Few hours ago I saw a nice blog post [Customizing ASP.​NET Core Part 06: MiddleWares](https://asp.net-hacker.rocks/2018/10/08/customizing-aspnetcore-06-middlewares.html) by [Jürgen Gutsch](https://twitter.com/sharpcms) which leads me to raise a question that I quote from our twitter dialog:
+Few hours ago I saw a nice blog post [Customizing ASP.​NET Core Part 06: MiddleWares](https://asp.net-hacker.rocks/2018/10/08/customizing-aspnetcore-06-middlewares.html) by [Jürgen Gutsch](https://twitter.com/sharpcms) which leads me to raise a question that I quote from our twitter dialog:
 
 > I'm not sure why I never seen anyone using IMiddleware instead of writing InvokeAsync manually?!!
 

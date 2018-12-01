@@ -1,4 +1,5 @@
 ---
+Id: 61
 Posted Date: 30/10/2018
 Tags:  Blazor, BlazorComponents, Charts 
 Slug: chart-controls-using-blazor-and-morris.js

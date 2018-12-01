@@ -1,11 +1,12 @@
 ---
+Id: 62
 Posted Date: 20/11/2018
 Tags:  Validation, Blazor
 Slug: part1-validation-controls-using-blazor-basic-validation-controls
 ---
 # Part I: Validation Controls using Blazor - Basic Validation Controls
 
- Last time I blogged about [Chart Controls using Blazor & morris.js](http://www.hishambinateya.com/chart-controls-using-blazor-and-morris.js) which is shows how cools & easy to use chart controls using Blazor!! today I will continue blog about another kind of controls, which is validation controls.
+Last time I blogged about [Chart Controls using Blazor & morris.js](http://www.hishambinateya.com/chart-controls-using-blazor-and-morris.js) which is shows how cools & easy to use chart controls using Blazor!! today I will continue blog about another kind of controls, which is validation controls.
 
 As we know validations are very important in almost if not all kind of web applications to avoid unexpected input from the users. If we go back 13 years ago, ASP.NET Web Forms provided a rich set of validation controls to protect the user input. Today I 'd like to start doing similar things using Blazor.
 
