@@ -127,7 +127,7 @@ Now, let us use our validation control on action by adding a single line of mark
 ```
 Finally when you run the application the validation components will look like the figure below.
 
-![](https://raw.githubusercontent.com/hishamco/BlazorValidationControls/master/Screenshot.png)
+![](https://raw.githubusercontent.com/hishamco/hishambinateya.com/master/posts/images/b6297c4d-89d6-4619-94f7-eb53c35f1bd3.png)
 
 You can download the source code for this blog post from my [BlazorValidationControls](https://github.com/hishamco/BlazorValidationControls) repository on GitHub.
 
