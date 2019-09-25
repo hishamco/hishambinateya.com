@@ -8,7 +8,7 @@ Slug: my-journey-with-orchard-core
 
 It has been a while since I wrote my latest blog post, because my left ankle was broken and did a surgey since then, the thing that let me stay on the bed for around half a year.
 
-Afterward I did some contribution in OSS inluding [Orchard Core](https://https://github.com/OrchardCMS/OrchardCore) which I spent a lot of time on it with the community.
+Afterward I did some contribution in OSS inluding [Orchard Core](https://github.com/OrchardCMS/OrchardCore) which I spent a lot of time on it with the community.
 
 ### Orchard Core RC Release
 
