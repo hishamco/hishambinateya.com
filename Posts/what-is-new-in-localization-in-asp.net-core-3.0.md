@@ -71,12 +71,12 @@ Now I'm glad to say that the bug has been fixed and nothing block you to change 
 
 If you're interested you can checkout the following pull requests:
 
-- https://github.com/aspnet/AspNetCore/pull/13479
-- https://github.com/aspnet/AspNetCore/pull/12595
-- https://github.com/aspnet/Localization/pull/458
-- https://github.com/aspnet/AspNetCore/pull/12153
-- https://github.com/aspnet/AspNetCore/pull/12556
-- https://github.com/aspnet/Extensions/pull/2081
+- [https://github.com/aspnet/AspNetCore/pull/13479](https://github.com/aspnet/AspNetCore/pull/13479)
+- [https://github.com/aspnet/AspNetCore/pull/12595](https://github.com/aspnet/AspNetCore/pull/12595)
+- [https://github.com/aspnet/Localization/pull/458](https://github.com/aspnet/Localization/pull/458)
+- [https://github.com/aspnet/AspNetCore/pull/12153](https://github.com/aspnet/AspNetCore/pull/12153)
+- [https://github.com/aspnet/AspNetCore/pull/12556](https://github.com/aspnet/AspNetCore/pull/12556)
+- [https://github.com/aspnet/Extensions/pull/2081](https://github.com/aspnet/Extensions/pull/2081)
 
 Last but not least I hope to write some docs for update 3.0 in Globalization and localization article, which is discussed here https://github.com/aspnet/AspNetCore.Docs/issues/14225.
 
