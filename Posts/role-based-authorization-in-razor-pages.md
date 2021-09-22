@@ -36,7 +36,7 @@ public static PageConventionCollection AuthorizeFolder(this PageConventionCollec
     var policy = new AuthorizationPolicyBuilder().
         RequireRole(roles).Build();
     var authorizeFilter = new AuthorizeFilter(policy);
-    conventions.AddPageApplicationModelConvention(folderPath, model => model.Filters.Add(authorizeFilter));
+    conventions.AddFolderApplicationModelConvention(folderPath, model => model.Filters.Add(authorizeFilter));
     return conventions;
 }
 ```
